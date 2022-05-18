@@ -14,4 +14,4 @@ The aim of this project is;
 
 ## Relevant Links
 * [LinkedIn](https://www.linkedin.com/in/rukevweevwrujae/)
-* [Report Presentation]([https://www.linkedin.com/in/rukevweevwrujae/](https://www.linkedin.com/posts/rukevweevwrujae_data-analytics-bigdata-activity-6897524091298144256-F5pG?utm_source=linkedin_share&utm_medium=member_desktop_web))
+* [Report Presentation](https://www.linkedin.com/posts/rukevweevwrujae_data-analytics-bigdata-activity-6897524091298144256-F5pG?utm_source=linkedin_share&utm_medium=member_desktop_web)
