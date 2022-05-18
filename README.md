@@ -31,6 +31,14 @@ After the cleaning and preparation processes, the following are some of the key 
 * The Average Fare collected per trip = $12.28
 * The Most Used Payment Type = Credit Card
 
+## Insights From My Analysis
+* __Total Amount Charged to Passengers By Week of the Year__: 'Week 4' has $9,314,161 as the highest total amount charged while 'Week 47' has $4,916,624 as the least total amount charged.
+* __Average Fare Collected By Week of the Year__: 'Week 31' has $12.99 as the highest average fare collected while 'Week 4' has $11.74 as the least average fare charged.
+* __Total Trips By Day of the Week__: 'Saturday' records 4,069,766 total trips as the highest while 'Monday' records 3,174,336 total trips as the least.
+* __Total Trips By Time of the Day__:
+
+## Recommendations
+
 ## Relevant Links
 * [Report Presentation](https://www.linkedin.com/posts/rukevweevwrujae_data-analytics-bigdata-activity-6897524091298144256-F5pG?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * [LinkedIn](https://www.linkedin.com/in/rukevweevwrujae/)
