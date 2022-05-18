@@ -1,6 +1,6 @@
 # NYC-Green-Taxi-Trips-Analysis
 A repository for the analysis of the records of Green Taxi Trips in New York City from the year 2017 to 2020. <br />
-The datasets used for this project can be found here: https://www.eia.gov/consumption/residential/data/2015/. <br />
+The datasets used for this project can be found here: https://drive.google.com/drive/folders/16oUNVhNnB4EN_JQszDK5EmA-vnl28OmT?usp=sharing. <br />
 
 ## Introduction
 In this project, I analysed the records of Green Taxi Trips in New York City from the year 2017 to 2020. <br />
