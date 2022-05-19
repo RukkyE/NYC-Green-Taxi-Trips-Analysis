@@ -1,11 +1,10 @@
 # NYC-Green-Taxi-Trips-Analysis
 A repository for the analysis of the records of Green Taxi Trips in New York City from the year 2017 to 2020. <br />
-The datasets used for this project can be found here: https://drive.google.com/drive/folders/16oUNVhNnB4EN_JQszDK5EmA-vnl28OmT?usp=sharing. <br />
+The datasets used for this project can be accessed using the link: https://drive.google.com/drive/folders/16oUNVhNnB4EN_JQszDK5EmA-vnl28OmT?usp=sharing. <br />
 
 ## Introduction
 In this project, I analysed the records of Green Taxi Trips in New York City from the year 2017 to 2020. <br />
 The aim of this project is;
-* Predict the average number of trips to expect next week. <br />
 * Predict the average fare amount per trip to be collected next week. <br />
 * Find the days of the week and times of the day that are the busiest. <br />
 * Find the most popular pick-up and drop-off locations. <br />
@@ -32,12 +31,24 @@ After the cleaning and preparation processes, the following are some of the key 
 * The Most Used Payment Type = Credit Card
 
 ## Insights From My Analysis
+* __Average Fare Amount to expect next week__: The average fare amount to expect next week (Week 21) is $12.96.
 * __Total Amount Charged to Passengers By Week of the Year__: 'Week 4' has $9,314,161 as the highest total amount charged while 'Week 47' has $4,916,624 as the least total amount charged.
-* __Average Fare Collected By Week of the Year__: 'Week 31' has $12.99 as the highest average fare collected while 'Week 4' has $11.74 as the least average fare charged.
+* __Average Fare Collected By Week of the Year__: 'Week 31' has $12.99 as the highest average fare collected while 'Week 4' has $11.74 as the least average fare collected.
 * __Total Trips By Day of the Week__: 'Saturday' records 4,069,766 total trips as the highest while 'Monday' records 3,174,336 total trips as the least.
-* __Total Trips By Time of the Day__:
+* __Total Trips By Time of the Day__: '12:00:00 AM' records 774 total trips as the time of the day with the highest number of total trips while '5:20:33 AM' records 37 total trips as the least.
+* __Total Trips By Payment Type__: 'Credit Card' has 54.29% with 14,225,937 total trips while 'Cash' has 45.71% with 11,979,856 total trips.
+* __Total Trips By VendorID__: 'Verifone Inc.' has 21,695,728 total trips while 'LLC' has 4,510,065 total trips.
+* __Total Trips By Borough__: 'Manhattan' has the highest records of 8,887,133 total trips while 'EWR' has the least with 67 total trips.
+* __Most Popular Pickup Location__: 'East Harlem North' is the most popular pickup location with 1,833,791 total trips while 'Governor's Island/Ellis Island/Liberty Island' are the least popular pickup locations with 1 total trip.
+* __Most Popular Dropoff Location__: 'East Harlem North' is the most popular dropoff location with 956,053 total trips while 'Great Kills Park' is the least popular dropoff location with 1 total trip.
 
 ## Recommendations
+From my analysis, I recommend that more taxi cabs should be made available to pickup and dropoff passengers;
+* In Manhattan
+* In the most popular pickup and dropoff locations such as 'East Harlem North', 'East Harlem South', 'Central Harlem North', 'Central Harlem', 'Astoria' etc.
+* On Saturdays every weekend by 12:00:00 AM.
+* In the '4th Week' of every year.
+* From 'Verifone Inc.'.
 
 ## Relevant Links
 * [Report Presentation](https://www.linkedin.com/posts/rukevweevwrujae_data-analytics-bigdata-activity-6897524091298144256-F5pG?utm_source=linkedin_share&utm_medium=member_desktop_web)
