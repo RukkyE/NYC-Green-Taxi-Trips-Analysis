@@ -5,6 +5,7 @@ The datasets used for this project can be accessed using the link: https://drive
 ## Introduction
 In this project, I analysed the records of Green Taxi Trips in New York City from the year 2017 to 2020. <br />
 The aim of this project is;
+* Increase the revenue to be generated for the following year. <br />
 * Predict the average fare amount per trip to be collected next week. <br />
 * Find the days of the week and times of the day that are the busiest. <br />
 * Find the most popular pick-up and drop-off locations. <br />
