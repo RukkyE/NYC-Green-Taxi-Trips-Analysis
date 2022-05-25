@@ -10,7 +10,7 @@ The aim of this project is;
 * Find the days of the week and times of the day that are the busiest. <br />
 * Find the most popular pick-up and drop-off locations. <br />
 
-## Data Exploration
+## Data Cleaning
 The datasets of this project contains 6 CSV files and a geospatial map in TopoJSON format. The raw data files for the taxi trips needed a lot of cleaning and preparation. I imported the files into Microsoft PowerBI Query Editor and performed the following cleaning processes;
 * Filtered out trips that were NOT sent via “store and forward”.
 * Filtered only street-hailed trips paid by card or cash with a standard rate
@@ -23,7 +23,7 @@ The datasets of this project contains 6 CSV files and a geospatial map in TopoJS
 * For trips that have a fare amount but have a trip distance of 0, I calculated the distance as (Fare amount - 2.5) / 2.5.
 * For trips that have a trip distance but have a fare amount of 0, I calculated the fare amount as 2.5 + (trip distance x 2.5)
 
-
+## Data Exploration
 After the cleaning and preparation processes, the following are some of the key insights I generated;
 * The Total Taxi Trips for the 4-year period = 26 Million trips
 * The Total Revenue generated = 387 Million dollars
